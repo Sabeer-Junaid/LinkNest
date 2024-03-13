@@ -63,7 +63,8 @@ body {
 .link {
   position: relative;
   background-color: transparent;
-  color: black;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   border: solid black;
   border-radius: 30px;
   font-size: 1rem;
@@ -83,7 +84,7 @@ body {
   width: auto;
   display: block;
   margin: 27px auto;
-  color:black;
+  color:white;
 }
 
 @media (hover: hover) {
