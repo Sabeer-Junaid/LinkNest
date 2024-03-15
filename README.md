@@ -2,7 +2,7 @@
 <p align="center">
 
   
-  <a href="https://www.linkedin.com/in/johnggli/">
+  <a href="https://www.linkedin.com/in/sabeerjunaid/">
     <img alt="Static Badge" src="https://img.shields.io/badge/made%20by-SabeerJunaid-red">
   </a>
 </p>
@@ -61,7 +61,7 @@ If you have any feedback, please reach out to me at sabeerjunaid992@gmail.com
 <p>
 <a href="https://www.linkedin.com/in/sabeerjunaid/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black"></a>
   <a href="https://www.frontendmentor.io/profile/SabeerJuniad"><img alt="Static Badge" src="https://img.shields.io/badge/frontendmentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=3F54A3&labelColor=black"></a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sabeerjunaid992@gmail.com&su=SUBJECT&body=BODY&bcc=sabeerjunaid992@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black">
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=sabeerjunaid992@gmail.com&tf=cm"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black">
 </a>
 <a href="https://instagram.com/sabeer_89"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=black"></a>
 <a href="https://dev.to/sabeerjuniad"><img alt="Static Badge" src="https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&labelColor=black&color=yellow"></a>
