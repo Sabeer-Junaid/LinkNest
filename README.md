@@ -7,16 +7,13 @@
   </a>
 </p>
 
-
-![Logo](https://socialify.git.ci/SabeerJuniad/LinkNest/image?font=Source%20Code%20Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto)
-
 Linknest is a social media reference landing page alternative of Linktree.
 
 ## Getting Started
 
 1. Clone the Repository:
   ```
- git clone https://github.com/SabeerJuniad/LinkNest.git
+ git clone https://github.com/Sabeer-Juniad/LinkNest.git
   ```
 2. Install the dependencies:
   ```
@@ -28,7 +25,7 @@ Linknest is a social media reference landing page alternative of Linktree.
   ```
 4. Open your browser and go to:
   ```
- [git clone https://github.com/SabeerJuniad/LinkNest.git](http://localhost:3000)
+ [git clone https://github.com/Sabeer-Juniad/LinkNest.git](http://localhost:3000)
   ```
 ## 🚀 Demo
 
